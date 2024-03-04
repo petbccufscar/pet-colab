@@ -11,10 +11,12 @@ A unidade curricular “Algoritmos e Estruturas de Dados 1” centra-se no estud
 
 ## Conteúdos disponíveis
 
-### Mario San Felice
+### [Prof. Mario San Felice](AED1/Mario/README.md)
 
 **Exercicios**
 
-#### [Lista 1 ](List/DoubleList.h)
+#### [Lista 1 ]()
   
-- [Gabarito](List/DoubleListMain.cpp)
+Contém 7 exercícios sobre **Recursividade**
+
+- [Gabarito]()
