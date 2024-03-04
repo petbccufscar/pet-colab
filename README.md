@@ -39,13 +39,7 @@ Contribuições para o Repositório de Disciplinas do PET-BCC podem ser feitas d
 Lembramos que, independentemente do método escolhido, é importante seguir as diretrizes e padrões estabelecidos pelo repositório. Além disso, certifique-se de fornecer informações claras sobre suas contribuições para facilitar o processo de revisão e incorporação ao repositório. Agradecemos antecipadamente por suas contribuições e colaboração para fortalecer a comunidade acadêmica!
 
 ## Tabela de conteúdo
-- [💙 Repositorio Colaborativo](#-repositorio-colaborativo)
-  - [O que é o PET-COLAB?](#o-que-é-o-pet-colab)
-  - [O que posso encontrar aqui ?](#o-que-posso-encontrar-aqui-)
-  - [Como posso contribuir ou solicitar alterações no conteúdo?](#como-posso-contribuir-ou-solicitar-alterações-no-conteúdo)
-  - [Tabela de conteúdo](#tabela-de-conteúdo)
   - [Algoritmos e Estrturas de Dados 1](#algoritmos-e-estrturas-de-dados-1)
-  - [Contato](#contato)
 
 
 
