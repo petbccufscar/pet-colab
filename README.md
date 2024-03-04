@@ -40,14 +40,25 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
 
 ## Tabela de conteúdo
   - [Algoritmos e Estrturas de Dados 1](#algoritmos-e-estrturas-de-dados-1)
+  - [Algoritmos e Estrturas de Dados 2](#algoritmos-e-estrturas-de-dados-2)
 
 
 
 ## [Algoritmos e Estrturas de Dados 1](materias/AED1/)
 
-- [Prof. Mario San Felice](AED1/Mario/README.md)
+- [Prof. Mario San Felice](materias/AED1/Mario/README.md)
 
-   Para visualizar todo o conteúdo disponível, [clique aqui](materiasAED1/README.md)
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/AED1/README.md)
+
+## [Algoritmos e Estrturas de Dados 2](materias/AED1/)
+
+- [Prof. Mario San Felice](materias/AED2/Mario/README.md)
+  
+- [Prof. Diego Furtado Silva](materias/AED2/Diego/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/AED2/README.md)
+
+
 
 
 ## Contato
