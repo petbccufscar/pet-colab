@@ -1,4 +1,8 @@
 # 💙 Repositorio Colaborativo 
+> Esse repositório faz parte da iniciativa de estimular a colaboração mútua entre os alunos
+
+<img src="https://raw.githubusercontent.com/petbccufscar/.github/main/profile/icon.png" align="right"/>
+
 Bem-vindo ao Repositório de Disciplinas do Programa de Educação Tutorial em Ciência da Computação (PET-BCC)!
 
 Este espaço foi criado com o intuito de oferecer suporte valioso aos estudantes dos cursos de Ciência da Computação e Engenharia da Computação.
@@ -8,7 +12,7 @@ Este espaço foi criado com o intuito de oferecer suporte valioso aos estudantes
 
 Este Repositório é uma iniciativa feita por alunos, para alunos. Todos os envolvidos estão sujeitos a erros, e as resoluções são fornecidas voluntariamente. Não há garantia total de veracidade nas respostas. O objetivo é apoiar os alunos em seus estudos, mas não substituir a orientação de um professor ou monitor. Se encontrar algum erro ou quiser contribuir com suas próprias resoluções, entre em contato com o PET-BCC.
 
-## O que é o Repositório Colaborativo?
+## O que é o PET-COLAB?
 Este repositório visa fornecer recursos educacionais que auxiliem os alunos em seus estudos, concentrando-se principalmente em listas de exercícios e suas respectivas resoluções. Estamos em constante evolução e abertos a sugestões para expandir nossa variedade de materiais.
 
 
@@ -36,15 +40,26 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
 
 ## Tabela de conteúdo
 - [💙 Repositorio Colaborativo](#-repositorio-colaborativo)
-  - [O que é o Repositório Colaborativo?](#o-que-é-o-repositório-colaborativo)
+  - [O que é o PET-COLAB?](#o-que-é-o-pet-colab)
   - [O que posso encontrar aqui ?](#o-que-posso-encontrar-aqui-)
   - [Como posso contribuir ou solicitar alterações no conteúdo?](#como-posso-contribuir-ou-solicitar-alterações-no-conteúdo)
   - [Tabela de conteúdo](#tabela-de-conteúdo)
   - [Algoritmos e Estrturas de Dados 1](#algoritmos-e-estrturas-de-dados-1)
+  - [Contato](#contato)
 
 
 
-## [Algoritmos e Estrturas de Dados 1](AED1/README.md)
+## [Algoritmos e Estrturas de Dados 1](materias/AED1/)
 
-[Prof. Mario San Felice](AED1/Mario/README.md)
-Para visualizar todo o conteúdo disponível, [clique aqui](AED1/README.md)
+- [Prof. Mario San Felice](AED1/Mario/README.md)
+
+   Para visualizar todo o conteúdo disponível, [clique aqui](materiasAED1/README.md)
+
+
+## Contato
+
+Se você tiver alguma dúvida, sugestão ou precisar de suporte, por favor, sinta-se à vontade para entrar em contato conosco:
+
+- **E-mail:** petbcc.ufscar@gmail.com
+
+Você também pode criar uma **Issue** no [GitHub](https://github.com/petbccufscar/pet-colab/issues) para relatar problemas, sugerir melhorias ou contribuir para o desenvolvimento do PET-COLAB. Estamos sempre abertos para receber feedback e colaboração. Obrigado!
