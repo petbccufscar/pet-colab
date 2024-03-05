@@ -5,9 +5,9 @@
 [DESCRIÇÃO DA MATÉRIA]
 
 ### Professores 
-[![Mario](https://img.shields.io/badge/Mario_San_Felice-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://site.dc.ufscar.br/docente/5cee7e5d48365a001679f750)
+![Mario](https://img.shields.io/badge/Mario_San_Felice-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
 
-[![Diego](https://img.shields.io/badge/Diego_Silva-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://site.dc.ufscar.br/docente/5cefcb3648365a001679f7736)
+![Diego](https://img.shields.io/badge/Diego_Silva-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
 
 ## Conteúdos disponíveis
 
