@@ -1,4 +1,4 @@
-# 💙 Repositorio Colaborativo 
+# 💙 Repositorio Colaborativo • ![Ativo](https://img.shields.io/badge/Ativo-green)
 > Esse repositório faz parte da iniciativa de estimular a colaboração mútua entre os alunos
 
 <img src="https://raw.githubusercontent.com/petbccufscar/.github/main/profile/icon.png" align="right"/>
