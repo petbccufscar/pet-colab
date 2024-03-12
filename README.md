@@ -58,6 +58,12 @@ Para visualizar todo o conteúdo disponível, [clique aqui](materias/AED1/README
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/AED2/README.md)
 
+## [Algebra Linear](materias/AlgLin/)
+
+- [Prof. Thomas Eddison](materias/AlgLin/Thomas/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/AlgLin/README.md)
+
 
 
 
