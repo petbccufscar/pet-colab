@@ -4,19 +4,19 @@
 
 ### Exercicios
 
-#### [Lista 1](/materias/AlgLin/Thomas/exercicios/lista1.md)
+#### [Lista 0](/materias/AlgLin/Thomas/exercicios/lista0.pdf)
   
 Contém 12 exercícios sobre **Matrizes**
 
 - *Gabarito não disponível*
 
-#### [Lista 2](/materias/AlgLin/Thomas/exercicios/lista2.md)
+#### [Lista 1](/materias/AlgLin/Thomas/exercicios/lista1.pdf)
   
 Contém 16 exercícios sobre **Sistema Lineares**
 
 - *Gabarito não disponível*
 
-#### [Lista 3](/materias/AlgLin/Thomas/exercicios/lista3.md)
+#### [Lista 2](/materias/AlgLin/Thomas/exercicios/lista2.pdf)
   
 Contém 11 exercícios sobre **Determinantes**
 
@@ -24,17 +24,11 @@ Contém 11 exercícios sobre **Determinantes**
 
 ### Provas
 
-#### [Prova 1](/materias/AlgLin/Thomas/provas/prova1.md)
+#### [Prova 1](/materias/AlgLin/Thomas/provas/prova1.pdf)
 
-- Para visualizar o gabarito, [clique aqui](/materias/AlgLin/Thomas/provas/prova1-gabarito.md)
+#### [Prova 2](/materias/AlgLin/Thomas/provas/prova2.pdf)
 
-#### [Prova 2](/materias/AlgLin/Thomas/provas/prova2.md)
-
-- Para visualizar o gabarito, [clique aqui](/materias/AlgLin/Thomas/provas/prova2-gabarito.md)
-
-#### [Prova 3](/materias/AlgLin/Thomas/provas/prova3.md)
-
-- Para visualizar o gabarito, [clique aqui](/materias/AlgLin/Thomas/provas/prova3-gabarito.md)
+#### [Prova 3](/materias/AlgLin/Thomas/provas/prova3.pdf)
 
 ## Contato
 
