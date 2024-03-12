@@ -1,18 +1,16 @@
 # Diego Furtado Silva
 
-![C++](https://img.shields.io/badge/c++-DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ## Conteúdos
 
 ### Exercicios
 
-#### [Lista 1](/materias/AED2/Diego/exercicios/lista1.md)
+#### [Lista 1](/materias/AED2/Diego/exercícios/lista1.md)
   
 Contém 9 exercícios prepartórios para a **Prova 1**
 
 - *Gabarito não disponível*
 
-#### [Lista 2](/materias/AED2/Diego/exercicios/lista2.md)
+#### [Lista 2](/materias/AED2/Diego/exercícios/lista2.md)
   
 Contém 14 exercícios prepartórios para a **Prova 2**
 
