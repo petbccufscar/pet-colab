@@ -1,6 +1,6 @@
 # Algebra Linear (AlgLin)
 
-[DESCRIÇÃO DA MATÉRIA]
+A Álgebra Linear é um campo crucial da matemática, cujos objetivos incluem capacitar os alunos a reconhecer e compreender as estruturas algébricas presentes em diversas áreas, através do estudo de espaços vetoriais, transformações lineares e sistemas de equações. Ao explorar conceitos como subespaços, bases, transformações lineares e diagonalização de matrizes, os estudantes desenvolvem habilidades para resolver problemas práticos e teóricos em campos como física, engenharia e ciências sociais. Além disso, a ênfase na aplicação prática dos conceitos estudados, incluindo sua relevância na Educação Básica, promove uma compreensão mais profunda da matemática como ferramenta organizacional e analítica.
 
 ### Professores 
 ![Thomas](https://img.shields.io/badge/Thomas_Edison-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
