@@ -41,7 +41,9 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
 ## Tabela de conteúdo
   - [Algoritmos e Estrturas de Dados 1](#algoritmos-e-estrturas-de-dados-1)
   - [Algoritmos e Estrturas de Dados 2](#algoritmos-e-estrturas-de-dados-2)
-
+  - [Arquitetura e Organização de Computadores 1](#arquitetura-e-organização-de-computadores-1)
+  - [Arquitetura e Organização de Computadores 2](#arquitetura-e-organização-de-computadores-2)
+  - [Cálculo 1](#cálculo-1)
 
 
 ## [Algoritmos e Estrturas de Dados 1](materias/AED1/)
