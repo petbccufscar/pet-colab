@@ -26,9 +26,15 @@ Contém 11 exercícios sobre **Determinantes**
 
 #### [Prova 1](/materias/AlgLin/Thomas/provas/prova1.pdf)
 
+- *A prova contém Gabarito*
+
 #### [Prova 2](/materias/AlgLin/Thomas/provas/prova2.pdf)
 
+- *A prova contém Gabarito*
+
 #### [Prova 3](/materias/AlgLin/Thomas/provas/prova3.pdf)
+
+- *A prova contém Gabarito*
 
 ## Contato
 
