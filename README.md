@@ -41,7 +41,9 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
 ## Tabela de conteúdo
   - [Algoritmos e Estrturas de Dados 1](#algoritmos-e-estrturas-de-dados-1)
   - [Algoritmos e Estrturas de Dados 2](#algoritmos-e-estrturas-de-dados-2)
-
+  - [Arquitetura e Organização de Computadores 1](#arquitetura-e-organização-de-computadores-1)
+  - [Arquitetura e Organização de Computadores 2](#arquitetura-e-organização-de-computadores-2)
+  - [Cálculo 1](#cálculo-1)
 
 
 ## [Algoritmos e Estrturas de Dados 1](materias/AED1/)
@@ -64,7 +66,23 @@ Para visualizar todo o conteúdo disponível, [clique aqui](materias/AED2/README
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/AlgLin/README.md)
 
+## [Arquitetura e Organização de Computadores 1](materias/Arq1/)
 
+- [Prof. Luciano Neris](materias/Arq1/Neris/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/Arq1/README.md)
+
+## [Arquitetura e Organização de Computadores 2](materias/Arq2/)
+
+- [Prof. Luciano Neris](materias/Arq2/Neris/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/Arq2/README.md)
+
+## [Cálculo 1](materias/Calculo1/)
+
+- [PET-BCC](materias/Calculo1/PET-BCC/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/Calculo1/README.md)
 
 
 ## Contato

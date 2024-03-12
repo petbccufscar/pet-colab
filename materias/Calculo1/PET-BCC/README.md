@@ -1,20 +1,28 @@
-# Diego Furtado Silva
+# PET-BCC
 
 ## Conteúdos
 
 ### Exercicios
 
-#### [Lista 1](/materias/AED2/Diego/exercícios/lista1.md)
+#### [Lista 1](/materias/Calculo1/PET-BCC/exercicios/lista1.md)
   
-Contém 9 exercícios prepartórios para a **Prova 1**
+Contém 8 exercícios sobre **Cálculo**
 
 - *Gabarito não disponível*
 
-#### [Lista 2](/materias/AED2/Diego/exercícios/lista2.md)
+#### [Lista 2](/materias/Calculo1/PET-BCC/exercicios/lista2.md)
   
-Contém 14 exercícios prepartórios para a **Prova 2**
+Contém 21 exercícios sobre **Derivadas**
 
 - *Gabarito não disponível*
+
+#### [Lista 3](/materias/Calculo1/PET-BCC/exercicios/lista3.md)
+  
+Contém 13 exercícios sobre **Limite**
+
+- *Gabarito não disponível*
+
+### Provas
 
 
 ## Contato

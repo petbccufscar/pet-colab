@@ -6,22 +6,59 @@
 
 #### [Lista 1](/materias/Arq1/Neris/exercicios/lista1.md)
   
-Contém 7 exercícios sobre **Matrizes**
+Contém 7 exercícios
 
-- *Gabarito não disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista1-gabarito.md)
 
 #### [Lista 2](/materias/Arq1/Neris/exercicios/lista2.md)
   
-Contém 16 exercícios sobre **Sistema Lineares**
+Contém 17 exercícios
 
-- *Gabarito não disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista2-gabarito.md)
+
 
 #### [Lista 3](/materias/Arq1/Neris/exercicios/lista3.md)
   
-Contém 11 exercícios sobre **Determinantes**
+Contém 6 exercícios
 
-- *Gabarito não disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista3-gabarito.md)
 
+
+#### [Lista 4](/materias/Arq1/Neris/exercicios/lista4.md)
+  
+Contém 9 exercícios
+
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista4-gabarito.md)
+
+#### [Lista 5](/materias/Arq1/Neris/exercicios/lista5.md)
+  
+Contém 5 exercícios
+
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista5-gabarito.md)
+
+#### [Lista 6](/materias/Arq1/Neris/exercicios/lista6.md)
+  
+Contém 5 exercícios
+
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista6-gabarito.md)
+
+#### [Lista 7](/materias/Arq1/Neris/exercicios/lista7.md)
+  
+Contém 5 exercícios
+
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista7-gabarito.md)
+
+#### [Lista 8](/materias/Arq1/Neris/exercicios/lista8.md)
+  
+Contém 26 exercícios
+
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista8-gabarito.md)
+
+#### [Lista 9](/materias/Arq1/Neris/exercicios/lista9.md)
+  
+Contém 7 exercícios
+
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista9-gabarito.md)
 
 ## Contato
 
