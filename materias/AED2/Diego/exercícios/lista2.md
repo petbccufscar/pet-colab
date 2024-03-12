@@ -35,23 +35,13 @@
 
 ### 11. Considere o grafo da figura a seguir. Quanto componentes fortemente conexos ele possui? Descreva um algoritmo para encontrar tais componentes e discuta sua complexidade. 
 
-```dot
-digraph G {
-    0 -> 1;
-    1 -> 3;
-    2 -> 1;
-    3 -> 4;
-    3 -> 2;
-    4 -> 5;
-    5 -> 7;
-    7 -> 6;
-    6 -> 4;
-}
-```
+![Imagem 1](https://github.com/petbccufscar/.github/raw/main/pet-colab/AED2/Diego/Captura%20de%20tela%202024-03-12%20163929.png)
 
 (fonte: visualgo.net)
 
 ### 12. Considere o grafo abaixo. Encontre o caminho mínimo, a partir do vértice 0, até o vértice 4. Utilize o algoritmo de Dijkstra. (fonte: visualgo.net)
+
+![Imagem 2](https://github.com/petbccufscar/.github/raw/main/pet-colab/AED2/Diego/Captura%20de%20tela%202024-03-12%20164149.png)
 
 ### 13. (CLRS 24.3-2) Mostre um grafo orientado com arestas negativas para o qual o algoritmo de Dijkstra não funciona corretamente.
 
