@@ -58,7 +58,29 @@ Para visualizar todo o conteúdo disponível, [clique aqui](materias/AED1/README
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/AED2/README.md)
 
+## [Algebra Linear](materias/AlgLin/)
 
+- [Prof. Thomas Eddison](materias/AlgLin/Thomas/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/AlgLin/README.md)
+
+## [Arquitetura e Organização de Computadores 1](materias/Arq1/)
+
+- [Prof. Luciano Neris](materias/Arq1/Neris/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/Arq1/README.md)
+
+## [Arquitetura e Organização de Computadores 2](materias/Arq2/)
+
+- [Prof. Luciano Neris](materias/Arq2/Neris/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/Arq2/README.md)
+
+## [Cálculo 1](materias/Calculo1/)
+
+- [PET-BCC](materias/Calculo1/PET-BCC/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/Calculo1/README.md)
 
 
 ## Contato
