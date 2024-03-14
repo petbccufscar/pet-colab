@@ -30,6 +30,12 @@ Contém 9 exercícios
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista4-gabarito.md)
 
+#### [Lista 4b](/materias/Arq1/Neris/exercicios/lista4b.md)
+  
+Contém 3 exercícios
+
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista4b-gabarito.md)
+
 #### [Lista 5](/materias/Arq1/Neris/exercicios/lista5.md)
   
 Contém 5 exercícios
