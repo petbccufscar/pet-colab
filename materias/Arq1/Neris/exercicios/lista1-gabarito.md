@@ -1,4 +1,4 @@
-# Lista de Exercícios 1
+# Gabarito Lista de Exercícios 1
 
 #### Professor
 [![Neris](https://img.shields.io/badge/Luciano_Neris-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://site.dc.ufscar.br/docente/5cee7e5d48365a001679f750)
