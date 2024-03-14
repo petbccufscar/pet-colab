@@ -34,9 +34,9 @@
         }
     }
 ```
-   - **a)** O que acontece se trocarmos `(p < r-1)` por `(p < r)` na linha // 1? A função termina? Por que?
-   - **b)** O que acontece se trocarmos `(p + r)/2` por `(p + r - 1)/2` na linha // 2? Os subproblemas sempre diminuem? Por que?
-   - **c)** O que acontece se trocarmos `(p + r)/2` por `(p + r + 1)/2` na linha // 2? Os subproblemas sempre diminuem? Por que?
+   #### **a)** O que acontece se trocarmos `(p < r-1)` por `(p < r)` na linha // 1? A função termina? Por que?
+   #### **b)** O que acontece se trocarmos `(p + r)/2` por `(p + r - 1)/2` na linha // 2? Os subproblemas sempre diminuem? Por que?
+   #### **c)** O que acontece se trocarmos `(p + r)/2` por `(p + r + 1)/2` na linha // 2? Os subproblemas sempre diminuem? Por que?
 
 ### 3. **Versão Decrescente do mergeSort:**
    - Escreva uma versão recursiva do algoritmo mergeSort que rearranje um vetor `v[p..r-1]` em ordem decrescente. Será preciso reescrever o algoritmo da intercalação.
@@ -75,9 +75,9 @@
         }
     }
 ```
-   - **a)** O que acontece se trocarmos `p < r` por `p != r` na linha 2? A função termina? Por que?
-   - **b)** O que acontece se trocarmos `j-1` por `j` na linha 4? Os subproblemas sempre diminuem? Por que?
-   - **c)** O que acontece se trocarmos `j+1` por `j` na linha 5? Os subproblemas sempre diminuem? Por que?
+   #### **a)** O que acontece se trocarmos `p < r` por `p != r` na linha 2? A função termina? Por que?
+   #### **b)** O que acontece se trocarmos `j-1` por `j` na linha 4? Os subproblemas sempre diminuem? Por que?
+   #### **c)** O que acontece se trocarmos `j+1` por `j` na linha 5? Os subproblemas sempre diminuem? Por que?
 
 ## Material Auxiliar
 

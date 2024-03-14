@@ -5,19 +5,15 @@
 
 ## Tabelas Hash
 
-### 1. 
-Suponha que `ch` e `M` são divisíveis por um inteiro `k`. Mostre que `ch % M` também será divisível por `k`. (Este exercício dá uma pequena indicação das vantagens de usar um número primo como valor de `M` numa tabela de espalhamento.)
+### 1. Suponha que `ch` e `M` são divisíveis por um inteiro `k`. Mostre que `ch % M` também será divisível por `k`. (Este exercício dá uma pequena indicação das vantagens de usar um número primo como valor de `M` numa tabela de espalhamento.)
 
-### 2. 
-Sendo `R` o número de chaves possíveis no universo e `M` o tamanho da tabela de espalhamento, seja `d` o número ⌈R/M⌉, isto é, teto de R/M. Considere a função de espalhamento que associa a cada chave `ch` o piso de `ch/d` (ou seja, o resultado da divisão inteira de `ch` por `d`). Por exemplo, se `R` é 10^5 e `M` é 10^2 então `d` vale 10^3 e portanto `ch/d` é dado pelos dois primeiros dígitos decimais de `ch`. Discuta a qualidade dessa função de espalhamento.
+### 2. Sendo `R` o número de chaves possíveis no universo e `M` o tamanho da tabela de espalhamento, seja `d` o número ⌈R/M⌉, isto é, teto de R/M. Considere a função de espalhamento que associa a cada chave `ch` o piso de `ch/d` (ou seja, o resultado da divisão inteira de `ch` por `d`). Por exemplo, se `R` é 10^5 e `M` é 10^2 então `d` vale 10^3 e portanto `ch/d` é dado pelos dois primeiros dígitos decimais de `ch`. Discuta a qualidade dessa função de espalhamento.
 
-### 3. 
-Considere uma tabela de espalhamento de tamanho `M = 13` cuja função de espalhamento é o resto da divisão da chave por `M`. Dado o fluxo de chaves `17 21 19 4 26 30 37` faça:
-   - a) Uma figura do estado final da tabela de espalhamento usando hashing com encadeamento.
-   - b) Uma figura do estado final da tabela de dispersão usando hashing com sondagem linear.
+### 3. Considere uma tabela de espalhamento de tamanho `M = 13` cuja função de espalhamento é o resto da divisão da chave por `M`. Dado o fluxo de chaves `17 21 19 4 26 30 37` faça:
+   #### a) Uma figura do estado final da tabela de espalhamento usando hashing com encadeamento.
+   #### b) Uma figura do estado final da tabela de dispersão usando hashing com sondagem linear.
 
-### 4. 
-A execução da função `contabiliza` apresentada a seguir é abortada se a tabela de dispersão estiver cheia. Escreva uma versão melhor, que redimensione a tabela escolhendo um novo valor de `M` que seja aproximadamente o dobro do anterior, alocando uma nova tabela `tb`, e reinserindo todas as chaves na nova tabela.
+### 4. A execução da função `contabiliza` apresentada a seguir é abortada se a tabela de dispersão estiver cheia. Escreva uma versão melhor, que redimensione a tabela escolhendo um novo valor de `M` que seja aproximadamente o dobro do anterior, alocando uma nova tabela `tb`, e reinserindo todas as chaves na nova tabela.
 
 ```c
 void contabiliza (int ch) {
@@ -37,8 +33,7 @@ void contabiliza (int ch) {
 }
 ```
 
-### 5. 
-Considere a função `convert` apresentada a seguir.
+### 5. Considere a função `convert` apresentada a seguir.
 ```c
 typedef char *string;
 unsigned convert (string s) {
@@ -48,10 +43,10 @@ unsigned convert (string s) {
     return h;
 }
 ```
-   - a) **Demonstração da colisão:**
+   #### a) **Demonstração da colisão:**
      - Se trocarmos o valor 256 por 1 na função `convert`, o resultado de `h` será sempre igual ao número de caracteres na string `s`. Portanto, todas as permutações da string `s` resultarão no mesmo valor de `h`, o que causa colisão.
      
-   - b) **Razão para não trocar as linhas:**
+   #### b) **Razão para não trocar as linhas:**
      - Trocar as linhas para `unsigned h = s[0];` e `for (i = 1; s[i] != '\0'; i++)` resultará em uma função de espalhamento que considera apenas o primeiro caractere da string `s`. Isso significa que muitas chaves diferentes terão o mesmo valor de espalhamento, o que pode aumentar a incidência de colisões e reduzir a eficácia da tabela de espalhamento.
 
 ## Material Auxiliar

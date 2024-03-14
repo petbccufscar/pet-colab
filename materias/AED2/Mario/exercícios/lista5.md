@@ -57,7 +57,6 @@
 
 ### 14. **(SW 5.2.3)** Insira as chaves now is the time for all good people to come to the aid of numa trie inicialmente vazia. Faça um desenho da trie resultante. (Não desenhe os links de valor null.)
 
-Para revisar conceitos sobre ordenação digital, busca de palavras e tries, além de encontrar
 
 ## Material Auxiliar
 
