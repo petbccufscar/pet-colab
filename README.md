@@ -7,7 +7,7 @@ Bem-vindo ao Repositório de Disciplinas do Programa de Educação Tutorial em C
 
 Este espaço foi criado com o intuito de oferecer suporte valioso aos estudantes dos cursos de Ciência da Computação e Engenharia da Computação.
 
-Este repositório também está disponível via [Google Drive]([https://drive.google.com/drive/u/0/folders/1zqUOOXK7Y5W1jGMNZFYtUiUqAOFXi4kS](https://drive.google.com/drive/u/3/folders/1Qou8TTqIiF1WhnhS6ct9Y3FslzgAGBSt))!
+Este repositório também está disponível via [Google Drive](https://drive.google.com/drive/u/3/folders/1Qou8TTqIiF1WhnhS6ct9Y3FslzgAGBSt)
 
 
 **IMPORTANTE**
