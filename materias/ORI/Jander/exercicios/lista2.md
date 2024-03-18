@@ -8,9 +8,9 @@
 
 ## Atividade
 ### O tema principal: Dispositivos de armazenamento. Este tema é dividido nos seguintes subtemas:
-### 1. Dispositivos e device drivers; O que são, genericamente, os dispositivos de armazenamento e como eles são usados pelo sistema operacional; quais são as mídias disponíveis para armazenamento (de forma superficial).
-### 2. Discos rígidos; Quais as tecnologias de armazenamento (magnética); qual sua conformação física e limitações mecânicas envolvidas; quais as capacidades de armazenamento; qual o desempenho (velocidade de acesso); qual o curto por gigabyte.
-### 3. Estado sólido; Quais as tecnologias de armazenamento (eletrônica); qual sua conformação física e limitações envolvidas; quais as capacidades de armazenamento; qual o desempenho (velocidade de acesso); qual o curto por gigabyte.
+### 1. Dispositivos e device drivers: O que são, genericamente, os dispositivos de armazenamento e como eles são usados pelo sistema operacional; quais são as mídias disponíveis para armazenamento (de forma superficial).
+### 2. Discos rígidos: Quais as tecnologias de armazenamento (magnética); qual sua conformação física e limitações mecânicas envolvidas; quais as capacidades de armazenamento; qual o desempenho (velocidade de acesso); qual o curto por gigabyte.
+### 3. Estado sólido:Quais as tecnologias de armazenamento (eletrônica); qual sua conformação física e limitações envolvidas; quais as capacidades de armazenamento; qual o desempenho (velocidade de acesso); qual o curto por gigabyte.
 ### Etapas da atividade:
 ### • Atribuição dos subtemas aos membros;
 ### • Estudo do subtema e preparação da exposição (30 minutos);
