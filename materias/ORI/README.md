@@ -4,7 +4,7 @@
 
 A disciplina "Organização e Recuperação da Informação (ORI)" concentra-se no estudo detalhado de métodos e técnicas para organizar e recuperar informações de forma eficiente, utilizando principalmente a linguagem de programação C++. Os alunos exploram algoritmos complexos e estruturas de dados avançadas para lidar com sistemas de armazenamento e recuperação de dados, desenvolvendo habilidades para projetar soluções eficazes para problemas relacionados à organização, indexação e busca de dados. O curso enfatiza a importância da eficiência na gestão da informação, visando otimizar recursos computacionais e melhorar a experiência do usuário ao lidar com grandes volumes de dados.
 ### Professores 
-![Jander](https://img.shields.io/badge/Mario_San_Felice-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
+![Jander](https://img.shields.io/badge/Jander_Moreira-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
 
 
 ## Conteúdos disponíveis
