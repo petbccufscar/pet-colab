@@ -1,20 +1,20 @@
 # Jander
 
-![C++](https://img.shields.io/badge/c++-DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Conteúdos
 
 ### Exercicios
 
-#### [Lista 1](/materias/AED1/Mario/exercicios/lista1.md)
+#### [Lista 1](/materias/ORI/Jander/exercicios/lista1.md)
   
-Contém 7 exercícios sobre **Recursividade**
+Contém 1 exercícios sobre **Dispositivos de entrada e saída, Sistemas de arquivos e Leitura e gravação**
 
 - *Gabarito não disponível*
 
-#### [Lista 2](/materias/AED1/Mario/exercicios/lista2.md)
+#### [Lista 2](/materias/ORI/Jander/exercicios/lista2.md)
   
-Contém 9 exercícios sobre **Vetores, busca e ordenação**
+Contém 1 exercícios sobre **Dispositivos de armazenamento**
 
 - *Gabarito não disponível*
 
