@@ -9,7 +9,7 @@ A disciplina "Organização e Recuperação da Informação (ORI)" concentra-se 
 
 ## Conteúdos disponíveis
 
-### [Prof. Jander Moreira](materias/ORI/Jander/README.md)
+### [Prof. Jander Moreira](Jander/README.md)
 
 
 ## Contato
