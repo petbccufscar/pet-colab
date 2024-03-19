@@ -8,13 +8,13 @@
 
 #### [Lista 1](/materias/ORI/Jander/exercicios/lista1.md)
   
-Contém 1 exercícios sobre **Dispositivos de entrada e saída, Sistemas de arquivos e Leitura e gravação**
+Contém 1 exercício sobre **Dispositivos de entrada e saída, Sistemas de arquivos e Leitura e gravação**
 
 - *Gabarito não disponível*
 
 #### [Lista 2](/materias/ORI/Jander/exercicios/lista2.md)
   
-Contém 1 exercícios sobre **Dispositivos de armazenamento**
+Contém 1 exercício sobre **Dispositivos de armazenamento**
 
 - *Gabarito não disponível*
 
