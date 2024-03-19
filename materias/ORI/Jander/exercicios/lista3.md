@@ -1,7 +1,7 @@
 # Lista de Exercícios 3
 
 #### Professor
-[![Mario](https://img.shields.io/badge/Mario_San_Felice-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://site.dc.ufscar.br/docente/5cee7e5d48365a001679f750)
+[![Jander](https://img.shields.io/badge/Jander_Moreira-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://site.dc.ufscar.br/docente/5cee7b2948365a001679f746)
 
 
 ## Apresentação
