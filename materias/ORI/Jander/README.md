@@ -1,4 +1,4 @@
-# Jander
+# Jander Moreira
 
 ![C](https://img.shields.io/badge/C-DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
