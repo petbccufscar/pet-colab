@@ -5,7 +5,7 @@
 
 
 ## Apresentação
-###Este roteiro se refere à aula Implementação com campos e registros e tem previsão de duração 60 a 70 minutos.
+### Este roteiro se refere à aula Implementação com campos e registros e tem previsão de duração 60 a 70 minutos.
 
 ## Atividades
 ### É preciso que sejam armazenados os seguintes dados sobre alunos em um arquivo:
