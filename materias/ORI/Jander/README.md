@@ -18,29 +18,12 @@ Contém 1 exercícios sobre **Dispositivos de armazenamento**
 
 - *Gabarito não disponível*
 
-#### [Lista 3](/materias/AED1/Mario/exercicios/lista3.md)
+#### [Lista 3](/materias/ORI/Jander/exercicios/lista3.md)
   
-Contém 7 exercícios sobre **Listas encadeadas**
+Contém 3 exercícios sobre **Implementação com campos e registros**
 
 - *Gabarito não disponível*
 
-#### [Lista 4](/materias/AED1/Mario/exercicios/lista4.md)
-  
-Contém 6 exercícios sobre **Pilhas**
-
-- *Gabarito não disponível*
-
-#### [Lista 5](/materias/AED1/Mario/exercicios/lista5.md)
-  
-Contém 4 exercícios sobre **Filas**
-
-- *Gabarito não disponível*
-
-#### [Lista 6](/materias/AED1/Mario/exercicios/lista6.md)
-  
-Contém 20 exercícios sobre **Árvores binárias, árvores binárias de busca, heaps**
-
-- *Gabarito não disponível*
 
 
 ## Contato
