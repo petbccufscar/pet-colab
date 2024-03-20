@@ -4,7 +4,7 @@
 [![Ednaldo](https://img.shields.io/badge/Ednaldo_Pizzolato-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://site.dc.ufscar.br/docente/5cee7e5d48365a001679f750)
 
 
-## Conceitos Básicos
+## Lista preparatória para a prova 2
 
 ### 1 - Elabore um algoritmo ou programa em C que leia um conjunto de 30 valores inteiros e os coloque em 2 vetores conforme estes valores sejam pares positivos (vetor A) ou ímpares positivos (vetor B). O tamanho do vetor A é de 7 posições e o do vetor B é de 12 posições. O valor 0 (zero) não será inserido em nenhum dos vetores, assim como os valores negativos. Se algum vetor estiver cheio, escrevê-lo e não inserir mais nenhum número nele. Terminada a leitura escrever o conteúdo dos dois vetores.
 
