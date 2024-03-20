@@ -6,55 +6,19 @@
 
 ### Exercicios
 
-#### [Lista 1](/materias/AED2/Mario/exercícios/lista1.md)
+#### [Lista 1](/materias/AED2/Marcela/exercícios/lista1.md)
   
-Contém 9 exercícios sobre **Árvores binárias de busca**
+Contém 12 exercícios sobre **Modelo Entidade Relacionamento**
 
-- *Gabarito não disponível*
+### Provas 
 
-#### [Lista 2](/materias/AED2/Mario/exercícios/lista2.md)
+#### [Prova 1](/materias/AED2/Marcela/provas/prova1.md)
   
-Contém 5 exercícios sobre **Árvores AVL e rubro-negra**
+Contém 3 exercícios sobre **BD**
 
-- *Gabarito não disponível*
-
-#### [Lista 3](/materias/AED2/Mario/exercícios/lista3.md)
+#### [Prova 2](/materias/AED2/Marcela/provas/prova2.md)
   
-Contém 5 exercícios sobre **Tabelas hash**
-
-- *Gabarito não disponível*
-
-#### [Lista 4](/materias/AED2/Mario/exercícios/lista4.md)
-  
-Contém 6 exercícios sobre **Ordenação**
-
-- *Gabarito não disponível*
-
-#### [Lista 5](/materias/AED2/Mario/exercícios/lista5.md)
-  
-Contém 14 exercícios sobre **Ordenação digital, busca de palavras, tries**
-
-- *Gabarito não disponível*
-
-#### [Lista 6](/materias/AED2/Mario/exercícios/lista6.md)
-  
-Contém 6 exercícios sobre **Representação de grafos**
-
-- *Gabarito não disponível*
-
-#### [Lista 7](/materias/AED2/Mario/exercícios/lista7.md)
-  
-Contém 9 exercícios sobre **Busca em profundidade**
-
-- *Gabarito não disponível*
-
-#### [Lista 8](/materias/AED2/Mario/exercícios/lista8.md)
-  
-Contém 7 exercícios sobre **Busca em largura, caminhos mínimos e Dijkstra**
-
-- *Gabarito não disponível*
-
-
+Contém 3 exercícios sobre **BD**
 
 ## Contato
 

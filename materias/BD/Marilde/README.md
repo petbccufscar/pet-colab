@@ -6,55 +6,35 @@
 
 ### Exercicios
 
-#### [Lista 1](/materias/AED2/Mario/exercícios/lista1.md)
+#### [Lista 1](/materias/BD/Marilde/exercicios/lista1.md)
   
-Contém 9 exercícios sobre **Árvores binárias de busca**
+Contém 6 exercícios sobre **Exercícios básicos de BD**
 
 - *Gabarito não disponível*
 
-#### [Lista 2](/materias/AED2/Mario/exercícios/lista2.md)
+#### [Lista 2](/materias/BD/Marilde/exercicios/lista2.md)
   
-Contém 5 exercícios sobre **Árvores AVL e rubro-negra**
+Contém 8 exercícios sobre **teoria**
 
 - *Gabarito não disponível*
 
-#### [Lista 3](/materias/AED2/Mario/exercícios/lista3.md)
+#### [Lista 3](/materias/BD/Marilde/exercicios/lista3.md)
   
-Contém 5 exercícios sobre **Tabelas hash**
+Contém 7 exercícios sobre **Normalização**
 
 - *Gabarito não disponível*
 
-#### [Lista 4](/materias/AED2/Mario/exercícios/lista4.md)
+#### [Lista 4](/materias/BD/Marilde/exercicios/lista4.md)
   
-Contém 6 exercícios sobre **Ordenação**
+Contém 2 exercícios sobre **Requisitos**
 
 - *Gabarito não disponível*
 
-#### [Lista 5](/materias/AED2/Mario/exercícios/lista5.md)
+#### [Lista 5](/materias/BD/Marilde/exercicios/lista5.md)
   
-Contém 14 exercícios sobre **Ordenação digital, busca de palavras, tries**
+Contém 4 exercícios sobre **Transações**
 
 - *Gabarito não disponível*
-
-#### [Lista 6](/materias/AED2/Mario/exercícios/lista6.md)
-  
-Contém 6 exercícios sobre **Representação de grafos**
-
-- *Gabarito não disponível*
-
-#### [Lista 7](/materias/AED2/Mario/exercícios/lista7.md)
-  
-Contém 9 exercícios sobre **Busca em profundidade**
-
-- *Gabarito não disponível*
-
-#### [Lista 8](/materias/AED2/Mario/exercícios/lista8.md)
-  
-Contém 7 exercícios sobre **Busca em largura, caminhos mínimos e Dijkstra**
-
-- *Gabarito não disponível*
-
-
 
 ## Contato
 
