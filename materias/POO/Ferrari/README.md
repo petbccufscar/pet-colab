@@ -6,13 +6,13 @@
 
 ### Exercicios
 
-#### [Lista 1](/materias/POO/Delano/exercicios/lista1.md)
+#### [Lista 1](/materias/POO/Ferrari/exercicios/lista1.md)
   
 Contém 4 exercícios sobre **Classes**
 
 - *Gabarito não disponível*
 
-#### [Lista 2](/materias/POO/Delano/exercicios/lista2.md)
+#### [Lista 2](/materias/POO/Ferrari/exercicios/lista2.md)
   
 Contém 1 atividade sobre **Classes Abstratas**
 
