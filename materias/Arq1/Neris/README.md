@@ -6,57 +6,63 @@
 
 #### [Lista 1](/materias/Arq1/Neris/exercicios/lista1.md)
   
-Contém 7 exercícios
+Contém 7 exercícios sobre **Conceitos Básicos**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista1-gabarito.md)
 
 #### [Lista 2](/materias/Arq1/Neris/exercicios/lista2.md)
   
-Contém 17 exercícios
+Contém 17 exercícios **Arquitetura MIPS**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista2-gabarito.md)
 
 
 #### [Lista 3](/materias/Arq1/Neris/exercicios/lista3.md)
   
-Contém 6 exercícios
+Contém 6 exercícios **Arquitetura MIPS**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista3-gabarito.md)
 
 
 #### [Lista 4](/materias/Arq1/Neris/exercicios/lista4.md)
   
-Contém 9 exercícios
+Contém 9 exercícios **Arquitetura MIPS**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista4-gabarito.md)
 
+#### [Lista 4b](/materias/Arq1/Neris/exercicios/lista4b.md)
+  
+Contém 3 exercícios ** **
+
+- Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista4b-gabarito.md)
+
 #### [Lista 5](/materias/Arq1/Neris/exercicios/lista5.md)
   
-Contém 5 exercícios
+Contém 5 exercícios **Arquitetura MIPS**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista5-gabarito.md)
 
 #### [Lista 6](/materias/Arq1/Neris/exercicios/lista6.md)
   
-Contém 5 exercícios
+Contém 5 exercícios **Arquitetura MIPS**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista6-gabarito.md)
 
 #### [Lista 7](/materias/Arq1/Neris/exercicios/lista7.md)
   
-Contém 5 exercícios
+Contém 5 exercícios **Números Binários**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista7-gabarito.md)
 
 #### [Lista 8](/materias/Arq1/Neris/exercicios/lista8.md)
   
-Contém 26 exercícios
+Contém 26 exercícios **Memória e Cache**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista8-gabarito.md)
 
 #### [Lista 9](/materias/Arq1/Neris/exercicios/lista9.md)
   
-Contém 7 exercícios
+Contém 7 exercícios **Desempenho**
 
 - Para visualizar o gabarito, [clique aqui](/materias/Arq1/Neris/exercicios/lista9-gabarito.md)
 
