@@ -10,7 +10,8 @@ A disciplina de Programação Orientada a Objetos (POO) centra-se no estudo abra
 
 ## Conteúdos disponíveis
 
-### [Prof. Mario San Felice](/materias/AED1/Mario/README.md)
+### [Prof. Roberto Ferrari Junior](/materias/POO/Ferrari/README.md)
+### [Prof. Delano Medeiros Beder](/materias/POO/Delano/README.md)
 
 
 ## Contato
