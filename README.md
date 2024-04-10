@@ -41,11 +41,19 @@ Contribuições para o Repositório de Disciplinas do PET-BCC podem ser feitas d
 Lembramos que, independentemente do método escolhido, é importante seguir as diretrizes e padrões estabelecidos pelo repositório. Além disso, certifique-se de fornecer informações claras sobre suas contribuições para facilitar o processo de revisão e incorporação ao repositório. Agradecemos antecipadamente por suas contribuições e colaboração para fortalecer a comunidade acadêmica!
 
 ## Tabela de conteúdo
+- [💙 Repositorio Colaborativo • ](#-repositorio-colaborativo--)
+  - [O que é o PET-COLAB?](#o-que-é-o-pet-colab)
+  - [O que posso encontrar aqui ?](#o-que-posso-encontrar-aqui-)
+  - [Como posso contribuir ou solicitar alterações no conteúdo?](#como-posso-contribuir-ou-solicitar-alterações-no-conteúdo)
+  - [Tabela de conteúdo](#tabela-de-conteúdo)
   - [Algoritmos e Estrturas de Dados 1](#algoritmos-e-estrturas-de-dados-1)
   - [Algoritmos e Estrturas de Dados 2](#algoritmos-e-estrturas-de-dados-2)
+  - [Algebra Linear](#algebra-linear)
   - [Arquitetura e Organização de Computadores 1](#arquitetura-e-organização-de-computadores-1)
   - [Arquitetura e Organização de Computadores 2](#arquitetura-e-organização-de-computadores-2)
   - [Cálculo 1](#cálculo-1)
+  - [Teoria da Computação](#teoria-da-computação)
+  - [Contato](#contato)
 
 
 ## [Algoritmos e Estrturas de Dados 1](materias/AED1/)
@@ -85,6 +93,12 @@ Para visualizar todo o conteúdo disponível, [clique aqui](materias/Arq2/README
 - [PET-BCC](materias/Calculo1/PET-BCC/README.md)
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/Calculo1/README.md)
+
+## [Teoria da Computação](materias/TC/)
+
+- [Prof. Sergio Zorzo](materias/TC/Zorzo/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/TC/README.md)
 
 
 ## Contato
