@@ -1,4 +1,4 @@
-# Mario San Felice
+# Marilde Terezinha Prado Santos
 
 ![C++](https://img.shields.io/badge/c++-DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -14,7 +14,7 @@ Contém 6 exercícios sobre **Exercícios básicos de BD**
 
 #### [Lista 2](/materias/BD/Marilde/exercicios/lista2.md)
   
-Contém 8 exercícios sobre **teoria**
+Contém 8 exercícios sobre **Teoria**
 
 - *Gabarito não disponível*
 

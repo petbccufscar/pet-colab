@@ -51,7 +51,15 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
   - [Algebra Linear](#algebra-linear)
   - [Arquitetura e Organização de Computadores 1](#arquitetura-e-organização-de-computadores-1)
   - [Arquitetura e Organização de Computadores 2](#arquitetura-e-organização-de-computadores-2)
+  - [Banco de Dados](#banco-de-dados)
   - [Cálculo 1](#cálculo-1)
+  - [Construção de Algoritmos e Programação](#construção-de-algoritmos-e-programação)
+  - [Inteligência Artificial](#inteligência-artificial)
+  - [Interação Humano Computador](#interação-humano-computador)
+  - [Matemática Discreta](#matemática-discreta)
+  - [Organização e Recuperação da Informação](#organização-e-recuperação-da-informação)
+  - [Programação Orientada a Objetos](#programação-orientada-a-objetos)
+  - [Programação Orientada a Objetos Avançada](#programação-orientada-a-objetos-avançada)
   - [Teoria da Computação](#teoria-da-computação)
   - [Contato](#contato)
 
@@ -88,11 +96,65 @@ Para visualizar todo o conteúdo disponível, [clique aqui](materias/Arq1/README
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/Arq2/README.md)
 
+## [Banco de Dados](materias/BD/)
+
+- [Prof. Marcela Xavier](materias/BD/Marcela/README.md)
+- [Prof. Marilde Terezinha Prado Santos](materias/BD/Marilde/README.md)
+- [Prof. Renato Bueno](materias/BD/Renato/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/BD/README.md)
+
 ## [Cálculo 1](materias/Calculo1/)
 
 - [PET-BCC](materias/Calculo1/PET-BCC/README.md)
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/Calculo1/README.md)
+
+## [Construção de Algoritmos e Programação](materias/CAP/)
+
+- [Prof. Ednaldo Pizzolato](materias/CAP/Ednaldo/README.md)
+- [Prof. Joice Otsuka](materias/CAP/Joice/README.md)
+- [Materiais Extras](materias/CAP/material-extra/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/CAP/README.md)
+
+## [Inteligência Artificial](materias/IA/)
+
+- [Prof. Heloisa de Arruda Camargo](materias/IA/Heloisa/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/IA/README.md)
+
+## [Interação Humano Computador](materias/IHC/)
+
+- [Prof. Vânia Neris](materias/IHC/Vânia/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/IHC/README.md)
+
+## [Matemática Discreta](materias/MD/)
+
+- [Prof. Helena Caseli](materias/MD/Helena/README.md)
+- [Prof. Alexandre Levada](materias/MD/Levada/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/MD/README.md)
+
+## [Organização e Recuperação da Informação](materias/ORI/)
+
+- [Prof. Jander Moreira](materias/ORI/Jander/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/ORI/README.md)
+
+## [Programação Orientada a Objetos](materias/POO/)
+
+- [Prof. Roberto Ferrari Junior](/materias/POO/Ferrari/README.md)
+- [Prof. Delano Medeiros Beder](/materias/POO/Delano/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/POO/README.md)
+
+## [Programação Orientada a Objetos Avançada](materias/POOA/)
+
+- [Prof. Valter Vieira de Camargo](/materias/POOA/Valter/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/POOA/README.md)
 
 ## [Teoria da Computação](materias/TC/)
 

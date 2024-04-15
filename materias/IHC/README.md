@@ -1,7 +1,5 @@
 # Interação Humano Computador (IHC)
 
-[DESCRIÇÃO DA MATÉRIA]
-
 A disciplina de Interação Humano-Computador capacita os estudantes a entender e considerar os requisitos dos usuários e aspectos de qualidade de uso na construção de sistemas computacionais interativos. Ao longo do curso, os alunos aprendem sobre os fundamentos teóricos, incluindo fatores humanos, ergonomia e modelos de engenharia, bem como conceitos de qualidade de uso. Eles também são introduzidos ao design de sistemas interativos, explorando abordagens, técnicas de prototipação e documentação de decisões de design. Além disso, a disciplina abrange a avaliação de sistemas interativos, incluindo métodos e técnicas de avaliação de usabilidade e acessibilidade, preparando os alunos para criar sistemas computacionais que atendam às necessidades e expectativas dos usuários de forma eficaz.
 
 ### Professores 

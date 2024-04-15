@@ -5,7 +5,7 @@ A disciplina de Banco de Dados introduz os conceitos fundamentais necessários p
 ### Professores 
 ![Marcela](https://img.shields.io/badge/Marilde_Xavier-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
 
-![Marilde](https://img.shields.io/badge/Marilde_Santos-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
+![Marilde](https://img.shields.io/badge/Marilde_Terezinha_Santos-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
 
 ![Renato](https://img.shields.io/badge/Renato_Bueno-%2300599C.svg?style=for-the-badge&logo=GoogleScholar&logoColor=white)
 
