@@ -57,6 +57,7 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
   - [Banco de Dados](#banco-de-dados)
   - [Cálculo 1](#cálculo-1)
   - [Construção de Algoritmos e Programação](#construção-de-algoritmos-e-programação)
+  - [Engenharia de Software 2](#engenharia-de-software-2)
   - [Inteligência Artificial](#inteligência-artificial)
   - [Interação Humano Computador](#interação-humano-computador)
   - [Matemática Discreta](#matemática-discreta)
@@ -139,6 +140,12 @@ Para visualizar todo o conteúdo disponível, [clique aqui](materias/Calculo1/RE
 - [Materiais Extras](materias/CAP/material-extra/README.md)
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/CAP/README.md)
+
+## [Engenharia de Software 2](materias/ES2/)
+
+- [Prof. Fabiano Ferrari](materias/ES2/Fabiano/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/ES2/README.md)
 
 ## [Inteligência Artificial](materias/IA/)
 
