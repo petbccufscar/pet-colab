@@ -49,6 +49,9 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
   - [Algoritmos e Estrturas de Dados 1](#algoritmos-e-estrturas-de-dados-1)
   - [Algoritmos e Estrturas de Dados 2](#algoritmos-e-estrturas-de-dados-2)
   - [Algebra Linear](#algebra-linear)
+  - [Algebra Linear](#algebra-linear-1)
+  - [Aprendizado de Máquina 1](#aprendizado-de-máquina-1)
+  - [Aprendizado de Máquina 2](#aprendizado-de-máquina-2)
   - [Arquitetura e Organização de Computadores 1](#arquitetura-e-organização-de-computadores-1)
   - [Arquitetura e Organização de Computadores 2](#arquitetura-e-organização-de-computadores-2)
   - [Banco de Dados](#banco-de-dados)
@@ -84,6 +87,24 @@ Para visualizar todo o conteúdo disponível, [clique aqui](materias/AED2/README
 - [Prof. Thomas Eddison](materias/AlgLin/Thomas/README.md)
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/AlgLin/README.md)
+
+## [Algebra Linear](materias/AlgLin/)
+
+- [Prof. Thomas Eddison](materias/AlgLin/Thomas/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/AlgLin/README.md)
+
+## [Aprendizado de Máquina 1](materias/AM1/)
+
+- [Prof. Murilo Coelho Naldi](materias/AM1/Naldi/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/AM1/README.md)
+
+## [Aprendizado de Máquina 2](materias/AM2/)
+
+- [Prof. Murilo Coelho Naldi](materias/AM2/Naldi/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/AM2/README.md)
 
 ## [Arquitetura e Organização de Computadores 1](materias/Arq1/)
 
