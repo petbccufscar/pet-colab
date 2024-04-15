@@ -42,10 +42,6 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
 
 ## Tabela de conteúdo
 - [💙 Repositorio Colaborativo • ](#-repositorio-colaborativo--)
-  - [O que é o PET-COLAB?](#o-que-é-o-pet-colab)
-  - [O que posso encontrar aqui ?](#o-que-posso-encontrar-aqui-)
-  - [Como posso contribuir ou solicitar alterações no conteúdo?](#como-posso-contribuir-ou-solicitar-alterações-no-conteúdo)
-  - [Tabela de conteúdo](#tabela-de-conteúdo)
   - [Algoritmos e Estrturas de Dados 1](#algoritmos-e-estrturas-de-dados-1)
   - [Algoritmos e Estrturas de Dados 2](#algoritmos-e-estrturas-de-dados-2)
   - [Algebra Linear](#algebra-linear)
@@ -66,7 +62,6 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
   - [Programação Orientada a Objetos Avançada](#programação-orientada-a-objetos-avançada)
   - [Programação Paralela e Distribuída](#programação-paralela-e-distribuída)
   - [Teoria da Computação](#teoria-da-computação)
-  - [Contato](#contato)
 
 
 ## [Algoritmos e Estrturas de Dados 1](materias/AED1/)
