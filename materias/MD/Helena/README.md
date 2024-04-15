@@ -10,7 +10,7 @@
   
 Contém 10 exercícios sobre **Estratégias de Demonstração de Teoremas**
 
-- *Gabarito disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/MD/Helena/exercicios/lista1-gabarito.md)
 
 #### [Lista 2](/materias/MD/Helena/exercicios/lista2.md)
   
@@ -22,37 +22,37 @@ Contém 6 exercícios sobre **Indução Matemática**
   
 Contém 23 exercícios sobre **Teoria dos Conjuntos**
 
-- *Gabarito disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/MD/Helena/exercicios/lista3-gabarito.md)
 
 #### [Lista 4](/materias/MD/Helena/exercicios/lista4.md)
   
 Contém 15 exercícios sobre **Conjuntos Parcialmente Ordenados**
 
-- *Gabarito disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/MD/Helena/exercicios/lista4-gabarito.md)
   
 #### [Lista 5](/materias/MD/Helena/exercicios/lista5.md)
   
 Contém 20 exercícios sobre **Relações**
 
-- *Gabarito disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/MD/Helena/exercicios/lista5-gabarito.md)
 
 #### [Lista 6](/materias/MD/Helena/exercicios/lista6.md)
   
 Contém 18 exercícios sobre **Funções**
 
-- *Gabarito disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/MD/Helena/exercicios/lista6-gabarito.md)
 
 #### [Lista 7](/materias/MD/Helena/exercicios/lista7.md)
   
 Contém 4 exercícios sobre **Somatórios e Produtórios**
 
-- *Gabarito disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/MD/Helena/exercicios/lista7-gabarito.md)
 
 #### [Lista 8](/materias/MD/Helena/exercicios/lista8.md)
   
 Contém 9 exercícios sobre **Teoria dos Números**
 
-- *Gabarito disponível*
+- Para visualizar o gabarito, [clique aqui](/materias/MD/Helena/exercicios/lista8-gabarito.md)
 
 
 ## Contato
