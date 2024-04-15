@@ -60,6 +60,7 @@ Lembramos que, independentemente do método escolhido, é importante seguir as d
   - [Organização e Recuperação da Informação](#organização-e-recuperação-da-informação)
   - [Programação Orientada a Objetos](#programação-orientada-a-objetos)
   - [Programação Orientada a Objetos Avançada](#programação-orientada-a-objetos-avançada)
+  - [Programação Paralela e Distribuída](#programação-paralela-e-distribuída)
   - [Teoria da Computação](#teoria-da-computação)
   - [Contato](#contato)
 
@@ -153,6 +154,12 @@ Para visualizar todo o conteúdo disponível, [clique aqui](materias/POO/README.
 ## [Programação Orientada a Objetos Avançada](materias/POOA/)
 
 - [Prof. Valter Vieira de Camargo](/materias/POOA/Valter/README.md)
+
+Para visualizar todo o conteúdo disponível, [clique aqui](materias/POOA/README.md)
+
+## [Programação Paralela e Distribuída](materias/PPD/)
+
+- [Prof. Helio Crestana Guardia](/materias/PPD/Hélio/README.md)
 
 Para visualizar todo o conteúdo disponível, [clique aqui](materias/POOA/README.md)
 
