@@ -12,7 +12,7 @@ Além da estrutura básica de condicinal existem também estruturas para tomar d
 
 #### Else if 
 
-O else if pode ser usado para adicionar outra condição, aumentando a eficiência do código, visto que, caso sua primeira condição for atingida não será necessário analizar a consição dentro de um else if.
+O else if pode ser usado para adicionar outra condição, aumentando a eficiência do código, visto que, caso sua primeira condição for atingida não será necessário analizar o parâmetro de um else if.
 
 Exemplo em pseudocódigo:
 
