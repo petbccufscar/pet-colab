@@ -9,7 +9,7 @@ Todo semestre, o PET-BCC organiza aulas que visam acompanhar os ingressantes do 
 
 ## Conteúdos disponíveis
 
-### [CAP](/acompanhamento-de-disciplinas/CAP/README.md)
+### [CAP](/material-extra/acompanhamento-de-disciplinas/CAP/README.md)
 
 
 ## Contato
