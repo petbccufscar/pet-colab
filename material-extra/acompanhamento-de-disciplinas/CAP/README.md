@@ -4,11 +4,11 @@
 
 ## Conteúdos
 
-#### [Aula 1](/acompanhamento-de-disciplinas/CAP/aula1/aula1.md)
+#### [Aula 1](/material-extra/acompanhamento-de-disciplinas/CAP/aula1/aula1.md)
   
 Conteúdo sobre **Algoritmos e Condicionais**
 
-#### [Aula 2](/acompanhamento-de-disciplinas/CAP/aula2/aula2.md)
+#### [Aula 2](/material-extra/acompanhamento-de-disciplinas/CAP/aula2/aula2.md)
   
 Conteúdo sobre **Condicionais e Repetição**
 
