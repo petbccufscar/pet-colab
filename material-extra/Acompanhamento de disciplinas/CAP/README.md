@@ -8,7 +8,7 @@
   
 Conteúdo sobre **Algoritmos e Condicionais**
 
-#### [Aula 2](/Acompanhamento de disciplinas/CAP/aula2/aula2.md)
+#### [Aula 2](/Acompanhamento)
   
 Conteúdo sobre **Condicionais e Repetição**
 
